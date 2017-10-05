@@ -1,8 +1,10 @@
 项目简介：
 ==
-客户端 Unity 2017.1.0f3(64-bit) (Scripting Runtime Version: .Net 4.6)
+此项目是《幻火》的客户端项目，对应的服务端项目地址在下方。
 
-服务端 KBEngine v0.9.18
+客户端版本 Unity 2017.1.0f3(64-bit) (Scripting Runtime Version: .Net 4.6)
+
+服务端版本 KBEngine v0.9.18
 
 地址:https://github.com/m969/huanhuoserver_uFrame_kbe.git
  
